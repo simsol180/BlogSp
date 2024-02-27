@@ -1,5 +1,7 @@
 # cms
 
+(This project is not mature enough to be usable)
+
 ## Project setup
 ```
 npm install
